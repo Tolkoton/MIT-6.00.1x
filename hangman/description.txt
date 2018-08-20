@@ -1,0 +1,1 @@
+A classical Hangman: guess a word from 8 guesses.
