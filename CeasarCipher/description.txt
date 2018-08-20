@@ -1,0 +1,2 @@
+This is classical Ceasar Cipher implementation.
+You might need to change pathes to words.txt, story.txt and  WORDLIST_FILENAME to use it
