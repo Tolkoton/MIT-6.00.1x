@@ -1,0 +1,2 @@
+Classic Scrabble game: You are dealt a hand of letters and you have to make words. Each word is scored separately.
+Note: You might need to change path to 'words.txt' to play.
